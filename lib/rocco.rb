@@ -122,7 +122,7 @@ class Rocco
       :language      => 'ruby',
       :comment_chars => '#',
       :template_file => nil,
-      :stylesheet    => 'http://jashkenas.github.com/docco/resources/docco.css'
+      :stylesheet    => 'https://raw.github.com/jashkenas/docco/master/resources/linear/docco.css'
     }.merge(options)
 
     # If we detect a language
